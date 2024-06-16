@@ -3,6 +3,4 @@ Breaking Bad is an American crime drama television series created and produced b
 
 Strongly inspired by [Rick and Morty's API](https://rickandmortyapi.com/)
 
-Resources for this API are found all over the internet, but speacially @ [SpringField.CO.UK](https://springfieldspringfield.co.uk)
-
-Sources: [serie script](https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=breaking-bad)
+Resources for this API are found all over the internet, but speacially @ [SpringField.CO.UK](https://springfieldspringfield.co.uk), [script](https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=breaking-bad)
