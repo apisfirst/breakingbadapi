@@ -1,0 +1,91 @@
+{
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {"title": "Pilot", "episode_number": 1},
+        {"title": "Cat's in the Bag...", "episode_number": 2},
+        {"title": "...and the Bag's in the River", "episode_number": 3},
+        {"title": "Cancer Man", "episode_number": 4},
+        {"title": "Gray Matter", "episode_number": 5},
+        {"title": "Crazy Handful of Nothin'", "episode_number": 6},
+        {"title": "A-No-Rough-Stuff-Type Deal", "episode_number": 7}
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {"title": "Seven Thirty-Seven", "episode_number": 1},
+        {"title": "Grilled", "episode_number": 2},
+        {"title": "Bit by a Dead Bee", "episode_number": 3},
+        {"title": "Down", "episode_number": 4},
+        {"title": "Breakage", "episode_number": 5},
+        {"title": "Peekaboo", "episode_number": 6},
+        {"title": "Negro Y Azul", "episode_number": 7},
+        {"title": "Better Call Saul", "episode_number": 8},
+        {"title": "4 Days Out", "episode_number": 9},
+        {"title": "Over", "episode_number": 10},
+        {"title": "Mandala", "episode_number": 11},
+        {"title": "Phoenix", "episode_number": 12},
+        {"title": "ABQ", "episode_number": 13}
+      ]
+    },
+    {
+      "season_number": 3,
+      "episodes": [
+        {"title": "No Más", "episode_number": 1},
+        {"title": "Caballo sin Nombre", "episode_number": 2},
+        {"title": "I.F.T.", "episode_number": 3},
+        {"title": "Green Light", "episode_number": 4},
+        {"title": "Más", "episode_number": 5},
+        {"title": "Sunset", "episode_number": 6},
+        {"title": "One Minute", "episode_number": 7},
+        {"title": "I See You", "episode_number": 8},
+        {"title": "Kafkaesque", "episode_number": 9},
+        {"title": "Fly", "episode_number": 10},
+        {"title": "Abiquiu", "episode_number": 11},
+        {"title": "Half Measures", "episode_number": 12},
+        {"title": "Full Measure", "episode_number": 13}
+      ]
+    },
+    {
+      "season_number": 4,
+      "episodes": [
+        {"title": "Box Cutter", "episode_number": 1},
+        {"title": "Thirty-Eight Snub", "episode_number": 2},
+        {"title": "Open House", "episode_number": 3},
+        {"title": "Bullet Points", "episode_number": 4},
+        {"title": "Shotgun", "episode_number": 5},
+        {"title": "Cornered", "episode_number": 6},
+        {"title": "Problem Dog", "episode_number": 7},
+        {"title": "Hermanos", "episode_number": 8},
+        {"title": "Bug", "episode_number": 9},
+        {"title": "Salud", "episode_number": 10},
+        {"title": "Crawl Space", "episode_number": 11},
+        {"title": "End Times", "episode_number": 12},
+        {"title": "Face Off", "episode_number": 13}
+      ]
+    },
+    {
+      "season_number": 5,
+      "episodes": [
+        {"title": "Live Free or Die", "episode_number": 1},
+        {"title": "Madrigal", "episode_number": 2},
+        {"title": "Hazard Pay", "episode_number": 3},
+        {"title": "Fifty-One", "episode_number": 4},
+        {"title": "Dead Freight", "episode_number": 5},
+        {"title": "Buyout", "episode_number": 6},
+        {"title": "Say My Name (aka Everybody Wins)", "episode_number": 7},
+        {"title": "Gliding Over All", "episode_number": 8},
+        {"title": "Blood Money", "episode_number": 9},
+        {"title": "Buried", "episode_number": 10},
+        {"title": "Confessions", "episode_number": 11},
+        {"title": "Rabid Dog", "episode_number": 12},
+        {"title": "To'hajiilee", "episode_number": 13},
+        {"title": "Ozymandias", "episode_number": 14},
+        {"title": "Granite State", "episode_number": 15},
+        {"title": "Felina", "episode_number": 16}
+      ]
+    }
+  ]
+}
